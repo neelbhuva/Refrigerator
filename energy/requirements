@@ -1,0 +1,102 @@
+the column we want is "energy_sum3"
+
+there are three files of data 
+1) mario 
+2) odaly 
+3) maria 
+
+for the people here is the first data i care about 
+1) mario
+PHASE ONE
+ start: ​
+ 2017-07-11 01:00:19.445607 
+ 
+​ end: 
+ 2017-07-19 11:00:50.900432 
+
+PHASE TWO 
+ start: 
+
+ 2017-07-19 17:03:13.259785 
+ 
+end 
+
+ 2017-07-24 14:00:03.62218  
+
+
+______
+
+2)odaly
+PHASE 1
+start: 
+2017-07-10 21:07:29.582749 
+
+end:
+ 2017-07-17 15:02:22.179892 
+
+PHASE 2
+start
+
+ 
+ 2017-07-17 20:00:05.376021 
+ 
+
+end 
+ 2017-07-24 13:03:14.502509 
+
+______
+3) maria 
+PHASE 1 
+start 
+ 2017-07-13 04:33:07.203739 
+
+end 
+ 2017-07-19 14:00:30.550984 
+
+PHASE 2 
+start 
+ 2017-07-19 20:02:12.771476 
+
+end 
+​
+ 2017-07-24 07:41:40.000926 
+​_______________________________________
+
+phase 1 is without the curtain 
+phase 2 is with the curtain 
+
+
+i think there are two things i would like you to do for each phase and each person. 
+
+1) subtract the min from the max of energy in "energy_sum3" and then normalized it by the number of hours in the time interval. 
+this will show how much average energy per hour is being used realative to curtain vs. no curtain. (but the energy consumed needs to start at zero. so subtract the first value in each interval from each value in the interval, since each interval does not start at zero. ) there should be 6 numbers when you are done. can you give it to me in table form?
+
+
+
+				Mario 
+						Maria 
+								Odaly 
+
+No curtain (avg energy/hr)
+
+
+
+Curtain (avg energy/hr)
+
+
+
+
+
+
+
+2) can you plot three plots 
+a) plot one is mario, plot two is maria, plot 3 is odaly 
+b) on x axis show the number of hours 
+c) on y axis show the energy consumed. but the energy consumed needs to start at zero. so subtract the first value in each interval from each value in the interval, since each interval does not start at zero. 
+
+my hope is this graph will show a general trend. can you deliver the slope of this line to me too? 
+
+
+​can you get this all back to me by next week? my report done by november 1st hehehehe ​
+​let me know if you have questions ​
+

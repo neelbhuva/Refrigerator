@@ -1,0 +1,7 @@
+I have two more excel files with different data. One of them measured the temperature in the kitchen, and the other measured every time the fridge door was opened
+
+I need to know the average temperature in the kitchen for each person, the high, and the low temp as well. (After getting this data back I may ask you to count how many times per hour it went above the average temperature. I tried to do this at one point, and I had to extrapolate the data so that there were numbers for each hour (vecause currently the measurements are sporadic))
+
+The second thing I will need to know is the number of times the door was opened. This will be in total
+
+Depending on the data I get back from the door opening, I may ask you to calculate the average time the door was open for each other, and the number of times it went above that average. This again you will have to extrapolate the data
